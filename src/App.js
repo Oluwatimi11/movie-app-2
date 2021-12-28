@@ -44,7 +44,7 @@ function App() {
     <>
       <header>
         <h3 className="heading">
-          My MovieApp
+          codeApe MovieApp
         </h3>
         <form onSubmit={handleOnSubmit}>
           <input
